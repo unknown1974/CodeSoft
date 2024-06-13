@@ -1,7 +1,9 @@
 # CodeSoft
 # CodeSoft Intership
 
-Intership Offer Letter post (LinkedIn) :
+Intership Offer Letter post (LinkedIn) : https://www.linkedin.com/posts/pavan-kumar-b02441248_intership-java-codesoft-activity-7206940037668630528-LhgD?utm_source=share&utm_medium=member_desktop
+
+
 Task 1 (Number Game)
 
 Task Details : 
